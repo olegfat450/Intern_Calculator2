@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intern_Calculator</string>
+    <string name="textResult">Результат</string>
+    <string name="buttonMain">Калькулятор</string>
+</resources>
